@@ -1,4 +1,7 @@
-package DataStrcuture;
+package Graph;
+
+import DataStrcuture.Digraph;
+import DataStrcuture.Graph;
 
 /**
  * Created by Wang on 2016/1/16.
