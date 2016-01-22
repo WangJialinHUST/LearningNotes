@@ -6,7 +6,7 @@ package RegularMatching;
 
 import DataStrcuture.Bag;
 import DataStrcuture.Digraph;
-import Graph.DirectedDFS;
+import GraphPack.DirectedDFS;
 import edu.princeton.cs.introcs.StdOut;
 
 import java.util.Stack;

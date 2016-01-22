@@ -14,9 +14,8 @@ public class Digraph{
         for(int v = 0; v < V; v++){
             adj[v] = new Bag<Integer>();
         }
-     //   adj = new Bag<Integer>[V];
-      //  adj = new Bag<Integer>[V];
     }
+    /// TODO: 2016/1/22 (int In) 
     public int V(){
         return V;
     }
