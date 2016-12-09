@@ -1,6 +1,7 @@
-# LearningNotes
+# Data Structure and Algorithm
+
 This is about Java Project including some my learning codes which is about algorithm and data structure.
 
-Plz read the Wiki first for more details.
+This project is wrote when i was studying Data Structure and Algorithm. Most of the codes are refferred to the bookAlgorithm Fourth Edition.
 
-https://github.com/WangJialinHUST/LearningNotes/wiki
+Plz read the Wiki first for more details.
